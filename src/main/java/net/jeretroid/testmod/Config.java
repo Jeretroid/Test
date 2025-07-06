@@ -1,4 +1,4 @@
-package net.test;
+package net.jeretroid.testmod;
 
 import java.util.List;
 
